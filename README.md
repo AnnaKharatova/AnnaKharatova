@@ -17,3 +17,6 @@
 
 <h4>Cо мной связаться: </h4>
 Telegram: @AnnaKharatova
+<a href='https://t.me/AnnaKharatova' target='blank'>
+  <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt="telegram">
+</a>
