@@ -6,7 +6,7 @@
 <p>:pencil: Стремлюсь писать чистый код</p>
 <p>:briefcase: Ищу работу в дружественном коллективе профессионалов</p>
 <p>:mortar_board: В настоящий момент учусь в Яндекс.Практикуме профессии "Веб-разработчик"</p>
-<p>:star: Владею английским языком на уровне С1</p>
+<p>:star: Владею английским языком на уровне B2</p>
 
 <h4>Мой Стек: </h4>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
