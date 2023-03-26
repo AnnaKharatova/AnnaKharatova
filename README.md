@@ -16,6 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;</p>
 
 <h4>Cо мной связаться: </h4>
-<a href='https://t.me/AnnaKharatova' target="blank">
+<a href='https://t.me/AnnaKharatova'>
   <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt="telegram">
 </a>
